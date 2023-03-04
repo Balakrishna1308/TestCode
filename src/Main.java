@@ -5,6 +5,7 @@ public class Main
         System.out.println("Hello world!");
         System.out.println("Test Project");
         System.out.println("This is again test.");
+        System.out.println("This is again test");
     }
 
 }
